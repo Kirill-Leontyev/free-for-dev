@@ -1,6 +1,7 @@
 # free-for.dev
 
 Комментарий для ветки branch2 no.1
+Комментарий для ветки branch2 no.2
 
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
 
