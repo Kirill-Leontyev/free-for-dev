@@ -5,6 +5,7 @@
 Комментарий no.3
 Новый коммит номер 1
 Новый коммит номер 2
+Новый коммит номер 3
 
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
 
